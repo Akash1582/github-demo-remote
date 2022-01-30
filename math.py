@@ -8,7 +8,7 @@ def sub(x,y):
 
 #Multiply implementation
 def mul(x,y):
-	pass
+	return x*y   #from local repo
 
 #Division implementation
 def div(x,y):
